@@ -1,4 +1,4 @@
-# :pencil2: **Textando** :page_facing_up:
+**Spotify Clone** :
 Interface do Spotify replicada para treinamento.
 
 Acessar: <a href=" https://github.com/DehLuizSantos/"> https://dehluizsantos.github.io/Spotify-clone/</a>
